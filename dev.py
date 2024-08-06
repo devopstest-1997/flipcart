@@ -1,8 +1,8 @@
 Hello 
 Printing to python code
 
-a=10
-b=20
+a=20
+b=50
 
 def display():
     if a>b:
