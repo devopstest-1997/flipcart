@@ -1,4 +1,5 @@
 Hello 
+practice daily you will git good knowledge
 Printing to python code
 
 a=20
