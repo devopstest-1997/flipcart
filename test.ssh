@@ -1,5 +1,9 @@
 wellcom
+<<<<<<< HEAD
 this is main branch
 
 Hello this is dev branch
+=======
+Hello this is main branch
+>>>>>>> pt/main
 Hello This is for a testing like if you want to delete files particuler commit id will use git revert commit id 
